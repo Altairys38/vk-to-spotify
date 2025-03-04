@@ -1,10 +1,11 @@
 # vk-to-spotify
 
+-----------------------UNDER CONSTRUCTION---------------------------------------------------
+
 This is a simple utility that works on Python and is made to transfer music from VK to Spotify.
 
 All features working in CLI, so, just follow the lines and all be okay!
 
-Made at the request of my beloved wife, who started using Spotify after its release in our country. :two_hearts:
 
 ## Running
 
@@ -22,11 +23,6 @@ Tip: If you encounter errors with no access to the directory, run as an administ
 
 ### Part I: Grabbing from VK
 
-This thing login into VK under the guise of a mobile client and pulls a selected number of tracks from your audios.<br>
-This has to be done for the reason
-that [``VK has closed methods for working with audio in its API``](https://vk.com/dev/audio_api), this is a kind of
-hack.<br>
-After, saves all tracks to JSON in format like **artist — title**. They are now ready to be imported to Spotify.<br>
 
 ### Part II: Importing to Spotify
 
@@ -40,6 +36,3 @@ private.<br>
 Now, just watch the process as it ends, just check your playlists on Spotify. :yum:
 
 ## Experience
-
-I quietly grab all my couple of thousand tracks, although only about 70% of them were found, but now I can safely listen
-to all my music from VK in Spotify.
